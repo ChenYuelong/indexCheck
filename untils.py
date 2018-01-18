@@ -9,6 +9,16 @@
 import os, sys
 
 
+def indexDif(index1,index2):
+    '''
+
+    :param index1: index1序列
+    :param index2: index2序列
+    :return: （int）index1与index2差异
+    '''
+    diffint =0
+    return diffint
+
 def main():
     pass
 
